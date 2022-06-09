@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1654798115472,
+  "index": "https://TatoCarle.github.io/Torneos/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://TatoCarle.github.io/Torneos/favicon.ico",
+        "https://TatoCarle.github.io/Torneos/index.html",
+        "https://TatoCarle.github.io/Torneos/main.6ba461a5d0b218f5.js",
+        "https://TatoCarle.github.io/Torneos/manifest.webmanifest",
+        "https://TatoCarle.github.io/Torneos/polyfills.b94e55757df1b99c.js",
+        "https://TatoCarle.github.io/Torneos/runtime.824b90ef2642ee5e.js",
+        "https://TatoCarle.github.io/Torneos/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://TatoCarle.github.io/Torneos/assets/icons/icon-128x128.png",
+        "https://TatoCarle.github.io/Torneos/assets/icons/icon-144x144.png",
+        "https://TatoCarle.github.io/Torneos/assets/icons/icon-152x152.png",
+        "https://TatoCarle.github.io/Torneos/assets/icons/icon-192x192.png",
+        "https://TatoCarle.github.io/Torneos/assets/icons/icon-384x384.png",
+        "https://TatoCarle.github.io/Torneos/assets/icons/icon-512x512.png",
+        "https://TatoCarle.github.io/Torneos/assets/icons/icon-72x72.png",
+        "https://TatoCarle.github.io/Torneos/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://TatoCarle.github.io/Torneos/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://TatoCarle.github.io/Torneos/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://TatoCarle.github.io/Torneos/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://TatoCarle.github.io/Torneos/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://TatoCarle.github.io/Torneos/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://TatoCarle.github.io/Torneos/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://TatoCarle.github.io/Torneos/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://TatoCarle.github.io/Torneos/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://TatoCarle.github.io/Torneos/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://TatoCarle.github.io/Torneos/index.html": "c236d8a89fc67bbb213d6111d5997818f6a4e7ce",
+    "https://TatoCarle.github.io/Torneos/main.6ba461a5d0b218f5.js": "613fd47955bf0207152acfb01ac106bd51439267",
+    "https://TatoCarle.github.io/Torneos/manifest.webmanifest": "e76f6da52efb3f8320cb2ba1dbb4953bd286bbb4",
+    "https://TatoCarle.github.io/Torneos/polyfills.b94e55757df1b99c.js": "06c65e455adab9822451c8a747ecd2d0f38e44b0",
+    "https://TatoCarle.github.io/Torneos/runtime.824b90ef2642ee5e.js": "1bed2b42302bdff1634bacdc5ad29da0f4714a3c",
+    "https://TatoCarle.github.io/Torneos/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
